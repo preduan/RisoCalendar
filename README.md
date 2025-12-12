@@ -8,3 +8,4 @@ The user can press S to save the file, which will also separate the file into 2 
 ![Amazing lady guitarist opener on Wednesday, August 19](SamplePhotos/RisoCal_02.jpg)
 ![Lion dance on Tuesday, February 17](SamplePhotos/RisoCal_03.jpg)
 ![Yellow and Orange, Red and Blue, and Aqua and Blue duocolor variations of the above photos](SamplePhotos/RisoCal_04.jpg)
+![Screen comparison of the original photo of the lady guitarist with the red and blue riso separated version](SamplePhotos/RisoCal_05.jpg)
