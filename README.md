@@ -4,4 +4,7 @@ This is a Riso Calendar Generator! This will look at the photo's metadata and re
 The user can press S to save the file, which will also separate the file into 2 colors for layered risograph printing, simplifying the process without relying on photoshop or other tools.
 
 
-![Lion dancers drumming on Monday, November 2nd](SamplePhotos/RisoCal_01.jpg)
+![Lion dancers drumming on Monday, November 2](SamplePhotos/RisoCal_01.jpg)
+![Amazing lady guitarist opener on Wednesday, August 19](SamplePhotos/RisoCal_02.jpg)
+![Lion dance on Tuesday, February 17](SamplePhotos/RisoCal_03.jpg)
+![Yellow and Orange, Red and Blue, and Aqua and Blue duocolor variations of the above photos](SamplePhotos/RisoCal_04.jpg)
