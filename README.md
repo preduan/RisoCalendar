@@ -4,4 +4,4 @@ This is a Riso Calendar Generator! This will look at the photo's metadata and re
 The user can press S to save the file, which will also separate the file into 2 colors for layered risograph printing, simplifying the process without relying on photoshop or other tools.
 
 
-!(SamplePhotos/RisoCal_01.jpeg)
+!(SamplePhotos/RisoCal_01.jpg)
