@@ -8,7 +8,6 @@ The user can press S to save the file, which will also separate the file into 2 
 
 Further iterations would include: layout improvements, adding more data from the photos to evoke more of the photo memory, adjusting the layout for printing multiple dates at once, and expanding the file intake format to include .heic, .png, etc. as well as image compression/resizing. I hope to expand on this project to be cleaner and to be able to fulfill a full calendar year's worth of memories to look back on.
 
-![Lion dancers drumming on Monday, November 2](SamplePhotos/RisoCal_01.jpg)
 ![Amazing lady guitarist opener on Wednesday, August 19](SamplePhotos/RisoCal_02.jpg)
 ![Lion dance on Tuesday, February 17](SamplePhotos/RisoCal_03.jpg)
 ![Yellow and Orange, Red and Blue, and Aqua and Blue duocolor variations of the above photos](SamplePhotos/RisoCal_04.jpg)
